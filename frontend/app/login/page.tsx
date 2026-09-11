@@ -138,7 +138,7 @@ export default function LoginPage() {
           href="/registers"
           className="text-yellow-400 hover:text-white underline underline-offset-2"
         >
-          REGISTER HERE
+          REGISTER HEREEEE
         </Link>
       </p>
 
