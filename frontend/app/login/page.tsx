@@ -59,7 +59,7 @@ export default function LoginPage() {
       {/* Title block */}
       <div className="text-center mb-2">
         <p className="text-xs text-slate-500 uppercase tracking-widest mb-3">
-          ✦ WELCOME BACK ✦
+          ✦ WELCOME BACK EVERYONE ✦
         </p>
         <h1 className="text-4xl font-mono font-bold text-yellow-400 uppercase tracking-widest drop-shadow-md">
           KelanaAI
