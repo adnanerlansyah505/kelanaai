@@ -135,10 +135,10 @@ export default function LoginPage() {
       <p className="font-mono text-slate-500 text-xs uppercase tracking-widest mt-6">
         NO ACCOUNT YET?{" "}
         <Link
-          href="/register"
+          href="/registers"
           className="text-yellow-400 hover:text-white underline underline-offset-2"
         >
-          REGISTER HERE
+          REGISTER HEREEEE
         </Link>
       </p>
 
